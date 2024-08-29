@@ -11,3 +11,4 @@ langchainhub
 langchain-objectbox
 langchain
 pymongo
+duckduckgo-search
